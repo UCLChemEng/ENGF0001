@@ -1,0 +1,10 @@
+name: nteractive
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
+  - math
